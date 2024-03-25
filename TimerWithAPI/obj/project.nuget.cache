@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRLOKbtw8jaP44R2YvRxUubtzsI3Qs5uU8yUG7GNdA524pEYIDgr3ojCgnuMAHgqShweqm2kOXm9L24kKoP6Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SH\\source\\repos\\TimerWithAPI\\TimerWithAPI\\TimerWithAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SH\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\SH\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
